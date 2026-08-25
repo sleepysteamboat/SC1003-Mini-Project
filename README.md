@@ -1,5 +1,3 @@
-# SC1003-Mini-Project
-
 # Team Balancing Algorithm — SC1003 Group Project
 
 Assigns 6,000 students into balanced teams of five within their tutorial
